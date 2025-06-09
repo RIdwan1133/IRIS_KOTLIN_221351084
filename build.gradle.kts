@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.example.iris_kotlin_221351084"
-    compileSdk = 36
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.example.iris_kotlin_221351084"
